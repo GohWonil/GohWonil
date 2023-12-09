@@ -3,13 +3,11 @@
 
 개발자가 되고싶은 
 
-- 📝- 👋 Hi, I’m @GohWonil
-- 📫 - 👀 I’m interested in ...
-- 🏢 - 🌱 I’m currently learning ...
-- 📄 - 💞️ I’m looking to collaborate on ...
-- 🌱 - 📫 How to reach me ..
-- 🤔 I'm interested in 
-- 😄 Pronouns: 
+📝 - 👋 Hi, I’m Goh Wonil.
+📫 - 👀 I’m interested in web programming.
+🏢 - 🌱 I’m currently learning web backend technologies.
+📄 - 💞️ I’m looking to collaborate with like-minded individuals.
+🌱 - 📫 How to reach me: kwi5124@naver.com
 
 
 ### Skill
