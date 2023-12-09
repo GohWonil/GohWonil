@@ -1,5 +1,5 @@
 
-### I ❤️ Code 🐱, 📚, 🏋️‍♂️, 🎬
+### I ❤️ Code
 
 개발자가 되고싶은 
 
@@ -21,19 +21,7 @@
 <details>
   <summary><strong>2023</strong></summary>
 
-- 
-- 
-- 
-
-</details>
-
-<details>
-  <summary><strong>2022</strong></summary>
-
-  
-- 
-- 
-
+- 8월 코딩 시작
 
 </details>
 
@@ -41,9 +29,9 @@
 
 ### Repositories
 
-- 
+- https://github.com/GohWonil
 
 ### Contribution
 
-- 
+- 12월 말 부터 시작 예정
 
