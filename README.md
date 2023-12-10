@@ -21,10 +21,21 @@
 <details>
   <summary><strong>2023</strong></summary>
 
-- 5월 : 계기로 인한 웹 개발자의 길 선택
-- 6월 : 정보처리기사 시험 준비 + java 생활코딩(https://www.youtube.com/watch?v=jdTsJzXmgU0&list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck), 나도코딩(https://www.youtube.com/watch?v=NQq0dOoEPUM) 독학
-- 7월 : 정보처리기사 필기 합격 + 혼자공부하는 자바, 자바정석 책 독학 + 학원 탐색
+- 6월 : java ![생활코딩](https://www.youtube.com/watch?v=jdTsJzXmgU0&list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck), ![나도코딩](https://www.youtube.com/watch?v=NQq0dOoEPUM) 독학
+- 7월 : 정보처리기사 필기 + 혼자공부하는 자바, 자바정석 독학
 - 8월 : 중앙정보처리학원 입소
+- 9월 : SQL + JAVA
+- 10월 : JAVA + HTML + CSS + JS
+- 11월 : JSP, SERVLET
+- 12월 : SPRING
+
+</details> <br>
+
+<details>
+  <summary><strong>2024</strong></summary>
+
+- 2월 : SQLD 시험 접수 예정
+- 3월 : 중앙정보처리학원 수료예정 + 정보처리기사 실기 접수 예정
 
 </details> <br>
 
