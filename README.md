@@ -3,11 +3,11 @@
 
 개발자가 되고싶은 
 
-📝 - 👋 Hi, I’m Goh Wonil<br>
-📫 - 👀 I’m interested in web programming<br>
-🏢 - 🌱 I’m currently learning web backend technologies<br>
-📄 - 💞️ I’m looking to collaborate with like-minded individuals<br>
-🌱 - 📫 How to reach me: kwi5124@naver.com<br>
+- 👋 Hi, I’m Goh Wonil<br>
+- 👀 I’m interested in web programming<br>
+- 🌱 I’m currently learning web backend technologies<br>
+- 💞️ I’m looking to collaborate with like-minded individuals<br>
+- 📫 How to reach me: kwi5124@naver.com<br>
 
 
 ### Skill
@@ -21,10 +21,12 @@
 <details>
   <summary><strong>2023</strong></summary>
 
-- 8월 코딩 시작
+- 5월 : 계기로 인한 웹 개발자의 길 선택
+- 6월 : 정보처리기사 시험 준비 + java 생활코딩(https://www.youtube.com/watch?v=jdTsJzXmgU0&list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck), 나도코딩(https://www.youtube.com/watch?v=NQq0dOoEPUM) 독학
+- 7월 : 정보처리기사 필기 합격 + 혼자공부하는 자바, 자바정석 책 독학 + 학원 탐색
+- 8월 : 중앙정보처리학원 입소
 
-</details>
-
+</details> <br>
 
 
 ### Repositories
