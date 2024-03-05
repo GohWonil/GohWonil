@@ -1,4 +1,4 @@
-### Hi there 👋
+### 방문자 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGohWonil&count_bg=%2392988E&title_bg=%232247B2&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **GohWonil/GohWonil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GohWonil&show_icons=true&theme=radical), [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GohWonil&layout=donut)](https://github.com/GohWonil/github-readme-stats)
+
 <br>
 
 ## :wrench:DB : ![dbeaver](https://img.shields.io/badge/dbeaver-F80000?style=for-the-badge&logo=dbeaver&logoColor=white)   , ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)   
@@ -26,11 +29,3 @@ Here are some ideas to get you started:
 ## :wrench:Tool : ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white), ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ## :wrench:CI/CD : ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white), ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ## :wrench:기타 : ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
-<br> 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGohWonil&count_bg=%2392988E&title_bg=%232247B2&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GohWonil&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GohWonil&layout=donut)](https://github.com/GohWonil/github-readme-stats)
