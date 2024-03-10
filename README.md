@@ -1,31 +1,82 @@
-### 방문자 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGohWonil&count_bg=%2392988E&title_bg=%232247B2&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- Header Content -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hello+World!+WonIl+Goh+GitHub!"/> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGohWonil&count_bg=%2392988E&title_bg=%232247B2&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)  <a href="https://url.kr/nylf4q"><img src="https://img.shields.io/badge/Link_Notion-E4405F?style=social&logo=notion&link=https://url.kr/nylf4q"/></a> <a href="mailto:kwi5124@naver.com"> <img src="https://img.shields.io/badge/Send_Email_Naver-E4405F?style=social&logo=Naver&link=https://url.kr/nylf4q"/></a>
 
-<!--
-**GohWonil/GohWonil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- My Stacks -->
+<table border="1" align="center">
+  <tr>
+    <th>카테고리</th>
+    <th>내용</th>
+  </tr>
+  <tr>
+    <td>DB</td>
+    <td>
+      <img src="https://img.shields.io/badge/SQLDeveloper-F80000?style=flat&logo=&logoColor=white"> 
+      <img src="https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="Oracle">
+    </td>
+  </tr>
+  <tr>
+    <td>백엔드</td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
+      <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white" alt="JSON">   
+      <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white" alt="Gradle">
+      <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white">
+      <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=flat&logo=&logoColor=white">
+      <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white">
+      <img src="https://img.shields.io/badge/Ajax-00758F?style=flat&logo=ajax&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td>프론트엔드</td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Chart%20js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js">
+      <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white" alt="Thymeleaf">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white  alt="bootstrap">
+    </td>
+  </tr>
+  <tr>
+    <td>협업</td>
+    <td>
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white" alt="Canva">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white" alt="Sourcetree">
+    </td>
+  </tr>
+  <tr>
+    <td>Tool</td>
+    <td>
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
+      <img src="https://img.shields.io/badge/IntelliJIDEA-4285F4?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+      <img src="https://img.shields.io/badge/EclipseIDE-4285F4?style=flat-square&logo=eclipse-ide&logoColor=white" alt="Eclipse IDE">
+    </td>
+  </tr>
+  <tr>
+    <td>Server&CI/CD</td>
+    <td>
+      <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat">
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<div align="center">
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GohWonil&show_icons=true&theme=radical), [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GohWonil&layout=donut)](https://github.com/GohWonil/github-readme-stats)
 
-<br>
+</div>
 
-## :wrench:DB : ![dbeaver](https://img.shields.io/badge/dbeaver-F80000?style=for-the-badge&logo=dbeaver&logoColor=white)   , ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)   
-## :wrench:백엔드 : ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white), ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white),<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">, <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">, ![json](https://img.shields.io/badge/json-%23ED8B00.svg?style=for-the-badge&logo=json&logoColor=white) , <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-## :wrench:프론트엔드 : ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E), ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white), ![chartdotjs](https://img.shields.io/badge/chartjs-%B7178C.svg?style=for-the-badge&logo=chartdotjs&logoColor=white), <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">, <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-
-## :wrench:웹서버 : ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-## :wrench:협업 : ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white),![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white), ![sourcetree](https://img.shields.io/badge/sourcetree-%B7178C.svg?style=for-the-badge&logo=sourcetree&logoColor=bule)
-## :wrench:Tool :                <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipse-ide&logoColor=white">, <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white">, ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-4285F4?style=for-the-badge&logo=intellij-idea&logoColor=white), ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-## :wrench:CI/CD : ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white), ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-## :wrench:기타 : ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GohWonil&layout=compact&card_width=445&hide=html,css)](https://github.com/GohWonil)
+-->
