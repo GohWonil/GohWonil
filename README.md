@@ -16,7 +16,7 @@
     </td>
   </tr>
   <tr>
-    <td>백엔드</td>
+    <td>Backend</td>
     <td>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
       <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot" alt="Spring Boot">
@@ -30,7 +30,7 @@
     </td>
   </tr>
   <tr>
-    <td>프론트엔드</td>
+    <td>Frontend</td>
     <td>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
@@ -42,7 +42,7 @@
     </td>
   </tr>
   <tr>
-    <td>협업</td>
+    <td>Collaboration</td>
     <td>
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white" alt="Canva">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
@@ -71,11 +71,13 @@
   </tr>
 </table>
 
+<!--
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GohWonil&show_icons=true&theme=radical), [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GohWonil&layout=donut)](https://github.com/GohWonil/github-readme-stats)
 
 </div>
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GohWonil&layout=compact&card_width=445&hide=html,css)](https://github.com/GohWonil)
